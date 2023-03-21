@@ -63,10 +63,13 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  The error message display indicated name error- unitialized constant Toys.
+  omitted the s in Toys to Toy
 
 - Update the number of likes for a toy
 
   - How I debugged:
+  Not rendering; added the render json
 
 - Donate a toy to Goodwill (and delete it from our database)
 
